@@ -1,3 +1,6 @@
+website
+<a target="_self" href"data:text/html;charset=utf-8, <!DOCTYPE html> <html>  <head>  </head>  <body> <h1>Example page</h1> <p>This is the Example page for the nightmode page</p> </body>  </html>">example site</a>
+
 # Nightmode-data-page
 Repository for Nightmode a data page project that can be opened direct in browser
 
