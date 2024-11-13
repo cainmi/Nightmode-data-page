@@ -14,4 +14,4 @@ Full list of limitations are still unknown but a few of them are
 4. opening other data sheets atm
 
 
-<p style="font-size: 2px;">Your hint is tags</p>
+<p style="font-size: .2px;">Your hint is tags</p>
